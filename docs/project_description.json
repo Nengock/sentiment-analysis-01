@@ -1,0 +1,25 @@
+{
+  "Project": "Social Media Sentiment Analysis for Indonesian Politicians",
+  "Project Steps": [
+    {
+      "Step": "Load the datasets for each politician.",
+      "Description": "Load tweets dataset related to Prabowo Subianto, Anies Baswedan, and Ganjar Pranowo using relevant hashtags and keywords."
+    },
+    {
+      "Step": "Clean the data by removing duplicates and handling missing values.",
+      "Description": "Remove duplicates, handle missing data, and preprocess text data (e.g., tokenization, stop-word removal)."
+    },
+    {
+      "Step": "Perform sentiment analysis on the tweets.",
+      "Description": "Analyze the sentiment of collected tweets."
+    },
+    {
+      "Step": "Visualize the sentiment distribution for each politician.",
+      "Description": "Visualize the sentiment distribution for each politician."
+    },
+    {
+      "Step": "Compare the sentiment scores between the politicians.",
+      "Description": "Compare the sentiment scores between Prabowo Subianto, Anies Baswedan, and Ganjar Pranowo."
+    }
+  ]
+}
